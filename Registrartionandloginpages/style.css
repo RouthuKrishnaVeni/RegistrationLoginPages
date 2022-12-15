@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url();
+    background-size: cover;
+}
+.bg-container{
+	background-color: grey;
+	border-radius: 8px;
+	border-width: 2px;
+	width:100%;
+	
+}
